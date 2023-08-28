@@ -1,0 +1,11 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "types": "1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
